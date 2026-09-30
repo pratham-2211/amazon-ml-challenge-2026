@@ -278,6 +278,8 @@ The diagnostic ceiling and local validation results should not be interpreted as
 
 \## Reproducibility and Validation
 
+Repository scope: This repository is a technical showcase containing selected implementation modules and documentation from the challenge workflow. Raw challenge data, generated artifacts, and some internal pipeline dependencies are intentionally excluded from the public repository.
+
 
 
 The project includes:
@@ -369,22 +371,6 @@ AMAZON-ML-CHALLENGE-2026/
 │   ├── results.md
 
 │   ├── problem\_statement.md
-
-│   ├── original\_project\_readme.md
-
-│   └── documentation\_template.md
-
-│
-
-├── notebooks/
-
-├── configs/
-
-└── results/
-
-&#x20;   └── figures/
-
-
 
 \## Documentation
 

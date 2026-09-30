@@ -1,5 +1,7 @@
 numpy
 pandas
+polars
 lightgbm
 scikit-learn
 scipy
+rapidfuzz
